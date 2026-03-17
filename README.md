@@ -38,3 +38,6 @@ python .\test.py
 - Add an API backend to sync edits with a real service
 
 Happy editing!
+
+# Update
+Amazon helpfully have made SP-API a charged service and designed the pricing solely to force out small projects, so this project (A bulk amazon listing editor, which would massively help small sellers) is officially Kaput until I can justify £1000 a year on it
